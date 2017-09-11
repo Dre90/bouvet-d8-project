@@ -26,7 +26,6 @@
         "drupal/console": "~1.0",
         "drupal/core": "~8.0",
         "drush/drush": "~8.0",
-        "drupal/console": "~1.0",
         "drupal/admin_toolbar": "^1.18",
         "drupal/coffee": "1.x-dev",
         "drupal/devel": "1.x-dev",
@@ -37,7 +36,7 @@
         "drupal/redirect": "1.x-dev",
         "drupal/webform": "5.x-dev",
         "drupal/diff": "1.x-dev",
-        "drupal/yoast_seo": "^1.1",
+        "drupal/paragraphs": "~1.0",
         "andeersg/bouvet_profile": "dev-8.x-1.x",
         "webflo/drupal-finder": "^0.2.1",
         "webmozart/path-util": "^2.3"
